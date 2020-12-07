@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Csharp - Herança\POOL - Herança\bin\Debug\netcoreapp3.1\POOL - Herança.exe
+C:\Users\dev\Desktop\Csharp - Herança\POOL - Herança\bin\Debug\netcoreapp3.1\POOL - Herança.deps.json
+C:\Users\dev\Desktop\Csharp - Herança\POOL - Herança\bin\Debug\netcoreapp3.1\POOL - Herança.runtimeconfig.json
+C:\Users\dev\Desktop\Csharp - Herança\POOL - Herança\bin\Debug\netcoreapp3.1\POOL - Herança.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Csharp - Herança\POOL - Herança\bin\Debug\netcoreapp3.1\POOL - Herança.dll
+C:\Users\dev\Desktop\Csharp - Herança\POOL - Herança\bin\Debug\netcoreapp3.1\POOL - Herança.pdb
+C:\Users\dev\Desktop\Csharp - Herança\POOL - Herança\obj\Debug\netcoreapp3.1\POOL - Herança.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Csharp - Herança\POOL - Herança\obj\Debug\netcoreapp3.1\POOL - Herança.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Csharp - Herança\POOL - Herança\obj\Debug\netcoreapp3.1\POOL - Herança.AssemblyInfo.cs
+C:\Users\dev\Desktop\Csharp - Herança\POOL - Herança\obj\Debug\netcoreapp3.1\POOL - Herança.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Csharp - Herança\POOL - Herança\obj\Debug\netcoreapp3.1\POOL - Herança.dll
+C:\Users\dev\Desktop\Csharp - Herança\POOL - Herança\obj\Debug\netcoreapp3.1\POOL - Herança.pdb
+C:\Users\dev\Desktop\Csharp - Herança\POOL - Herança\obj\Debug\netcoreapp3.1\POOL - Herança.genruntimeconfig.cache
